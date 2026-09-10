@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /cart.html
+Disallow: /checkout.html
+Disallow: /thank-you.html
+
+Sitemap: https://pearls-and-crafts.netlify.app/sitemap.xml
